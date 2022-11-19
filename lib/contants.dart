@@ -11,3 +11,5 @@ var temp;
 var no;
 bool check = true;
 Position? positions;
+Position? position1;
+var stAddress;
